@@ -1,4 +1,4 @@
-<img src="img/Fxossmall32.png" width="250px">
+<img src="img/Fxossmall32.png" width="350px">
 
 <h1>What's added ?</h1>
 
