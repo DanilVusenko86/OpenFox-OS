@@ -2,9 +2,11 @@
 
 <h1>What's added ?</h1>
 
-Inverter Market
-New Wallpapers
-More Launguages
+Inverter Market<br>
+
+New Wallpapers<br>
+
+More Launguages<br>
 
 <h1>How to add it ?</h1>
 
