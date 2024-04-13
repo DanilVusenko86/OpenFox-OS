@@ -8,12 +8,17 @@ More Launguages
 
 <h1>How to add it ?</h1>
 
-Press WebIDE button or press "shift+F8"
-Inport FireFox OS 2.6 simulator addon
-Decompress OpenFox OS 1.9 to new Folder
-On Firefox OS 2.6 start button press "⚙"
-In "Custom Gaia profile" placeholder add OpenFox OS to path
-Start FireFox OS 2.6 Runtime 
+1.Press WebIDE button or press "shift+F8"
+
+2.Inport FireFox OS 2.6 simulator addon
+
+3.Decompress OpenFox OS 1.9 to new Folder
+
+4.On Firefox OS 2.6 start button press "⚙"
+
+5.In "Custom Gaia profile" placeholder add OpenFox OS to path
+
+6.Start FireFox OS 2.6 Runtime 
 
 <h1>Developers</h1>
 
