@@ -1,6 +1,7 @@
 <img src="img/Fxossmall32.png" width="350px">
 
 <H1>OpenFox OS</H1>
+<p>OpenFox OS - it's a new Firefox OS with Inverter services and with new apps!</p>
 
 <h1>What's added ?</h1>
 
@@ -26,7 +27,7 @@ More Launguages<br>
 
 <h1>Components</h1>
 Mozilla Firefox: https://www.mozilla.org<br>
-FireFox OS: https://ftp.mozilla.org/pub/labs/fxos-simulator<br>
+FireFox OS: https://ftp.mozilla.org/pub/labs/fxos-simulator/ <br>
 FireFox Gaia: https://github.com/mozilla-b2g/gaia<br>
 <h1>Developers</h1>
 
