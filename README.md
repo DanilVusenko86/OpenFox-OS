@@ -1,5 +1,7 @@
 <img src="img/Fxossmall32.png" width="350px">
 
+<H1>OpenFox OS</H1>
+
 <h1>What's added ?</h1>
 
 Inverter Market<br>
@@ -35,6 +37,6 @@ FireFox Gaia: https://github.com/mozilla-b2g/gaia<br>
 <h6>Ahmed Barakat </h6>
 
 <h1>Contacts:</h1>
-<p>Telegram Channels:</p>
-Inverter Work Group: t.me/InfinityOS
+<p>Telegram Channels:</p><br>
+Inverter Work Group: t.me/InfinityOS<br>
 Vectras VM: t.me/vectras_os
