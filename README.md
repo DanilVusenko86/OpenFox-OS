@@ -22,6 +22,10 @@ More Launguages<br>
 
 6.Start FireFox OS 2.6 Runtime 
 
+<h1>Components</h1>
+Mozilla Firefox: https://www.mozilla.org<br>
+FireFox OS: https://ftp.mozilla.org/pub/labs/fxos-simulator<br>
+FireFox Gaia: https://github.com/mozilla-b2g/gaia<br>
 <h1>Developers</h1>
 
 <p>Inverter Work Group:</p>
