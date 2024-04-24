@@ -37,7 +37,4 @@ FireFox Gaia: https://github.com/mozilla-b2g/gaia<br>
 <p>Vectras Team:</p>
 <h6>Ahmed Barakat </h6>
 
-<h1>Contacts:</h1>
-<p>Telegram Channels:</p><br>
-Inverter Work Group: t.me/InfinityOS<br>
-Vectras VM: t.me/vectras_os
+
