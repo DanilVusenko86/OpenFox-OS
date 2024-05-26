@@ -33,8 +33,7 @@ FireFox Gaia: https://github.com/mozilla-b2g/gaia<br>
 
 <p>Inverter Work Group:</p>
 <h6>Danil Vyushenko</h6>
-
-<p>Vectras Team:</p>
+<br>
 <h6>Ahmed Barakat </h6>
 
 
